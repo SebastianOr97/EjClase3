@@ -7,8 +7,10 @@ body {
     margin: 50px;
     background-color: rgb(3, 88, 163);
     color: black;
+    border-radius: 10px;
 }
 .recuadro{
     font-size: smaller;
     background-color: rgb(212, 191, 191);
+    border-radius: 10px;
 }
