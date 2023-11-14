@@ -1,0 +1,14 @@
+body {
+   background-color: rgb(197, 233, 233);
+
+  }
+.customCard{
+    
+    margin: 50px;
+    background-color: rgb(3, 88, 163);
+    color: black;
+}
+.recuadro{
+    font-size: smaller;
+    background-color: rgb(212, 191, 191);
+}
